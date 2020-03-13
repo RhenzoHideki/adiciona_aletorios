@@ -5,6 +5,6 @@ Escreva uma função que adicione 10 números inteiros aleatórios a uma lista p
 A função deve ser declarada assim:
 
 ```c++
-void adiciona_aleatorios(lista<int> & umaLista)
+void adiciona_aleatorios(list<int> & umaLista)
 ```
 
