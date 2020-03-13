@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aluno/CLionProjects/Lista_ListaOrdenadaInteiros/questao.cpp
+questao.h
+/home/aluno/CLionProjects/Lista_ListaOrdenadaInteiros/questao.h
+
+/home/aluno/CLionProjects/Lista_ListaOrdenadaInteiros/questao.h
+questao.h
+/home/aluno/CLionProjects/Lista_ListaOrdenadaInteiros/questao.h
+list
+-
+iostream
+-
+
